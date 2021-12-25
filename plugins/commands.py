@@ -18,8 +18,8 @@ async def start(client: Client, message: Message):
                     ],
                     [
                         InlineKeyboardButton(
-                            "🖥️ HOW TO OWN 🖥️",
-                            url=f"{LINK}",
+                            "Developer",
+                            url="https://t.me/VinuthPmBot",
                         )
                     ],
                 ]
@@ -44,8 +44,8 @@ async def help(client, message):
                     ],
                     [
                         InlineKeyboardButton(
-                            "🖥️ HOW TO OWN 🖥️",
-                            url=f"{LINK}",
+                            "Developer",
+                            url="https://t.me/VinuthPmBot",
                         )
                     ],
                 ]
@@ -70,8 +70,8 @@ async def about(client, message):
                     ],
                     [
                         InlineKeyboardButton(
-                            "🖥️ HOW TO OWN 🖥️",
-                            url=f"{LINK}",
+                            "Developer",
+                            url="https://t.me/VinuthPmBot",
                         )
                     ],
                 ]
