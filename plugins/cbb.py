@@ -112,7 +112,7 @@ async def cb_handler(client: Client, query: CallbackQuery):
                 ],
                 [
                     InlineKeyboardButton(
-                        "🖥️ HOW TO OWN 🖥️", url=f"{LINK}"
+                        "DEVELOPER", url="https://t.me/VinuthPmBot"
                     )
                 ],
             ]
@@ -132,7 +132,7 @@ async def cb_handler(client: Client, query: CallbackQuery):
                 ],
                 [
                     InlineKeyboardButton(
-                        "🖥️ HOW TO OWN 🖥️", url=f"{LINK}"
+                        "DEVELOPER", url="https://t.me/VinuthPmBot"
                     )
                 ],
             ]
@@ -149,7 +149,7 @@ async def cb_handler(client: Client, query: CallbackQuery):
                 ],
                 [
                     InlineKeyboardButton(
-                        "🖥️ HOW TO OWN 🖥️", url=f"{LINK}"
+                        "DEVELOPER", url="https://t.me/VinuthPmBot"
                     )
                 ],
             ]
